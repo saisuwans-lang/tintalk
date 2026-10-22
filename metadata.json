@@ -1,0 +1,6 @@
+{
+  "name": "Tin Talk",
+  "description": "เว็บแอปพลิเคชันสื่อมัลติมีเดียเพื่อการเรียนรู้และแปลภาษาถิ่น 3 ภาคของไทย: เหนือ อีสาน ใต้ สโลแกน 'เรียนรู้ทุกถิ่น ได้ยินทุกใจ'",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
